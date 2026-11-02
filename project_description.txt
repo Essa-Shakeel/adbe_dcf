@@ -1,0 +1,9 @@
+Equity Valuation Project: Adobe DCF Model
+
+• Built a Python DCF model valuing Adobe (ADBE) using live SEC EDGAR and market data
+• Projected 10-year unlevered FCF across bear/base/bull scenarios; derived WACC via CAPM
+• Ran sensitivity tables (WACC × terminal growth, growth × margin, exit multiple) and a reverse DCF
+• Issued a BUY call with a $315 target (+30%); the market was pricing ~3% growth vs. 12% guided
+• Automated output to Excel with charts
+
+Skills: Python, Financial Modeling, DCF, Valuation, pandas, Excel

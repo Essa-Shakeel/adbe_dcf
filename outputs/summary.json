@@ -1,0 +1,46 @@
+{
+  "price": 241.05,
+  "wacc": 0.11086805592675868,
+  "ke": 0.11621249946594239,
+  "beta_adj": 1.2780500000000001,
+  "rf": 0.052309999465942385,
+  "tax": 0.21517077901088244,
+  "kd": 0.04086122898004086,
+  "shares": 389.2,
+  "net_cash": -724.0,
+  "scenario_values": {
+    "Bear": 189.29968811555054,
+    "Base": 322.83204922638225,
+    "Bull": 420.3072396425603
+  },
+  "scenario_values_exit": {
+    "Bear": 190.44550521140246,
+    "Base": 362.5218515178291,
+    "Bull": 544.0144829764382
+  },
+  "prob_weighted": 313.81775655271883,
+  "prob_weighted_upside": 0.3018782682128971,
+  "base_tv_share": 0.4645353528588205,
+  "base_implied_exit": 9.013599142303455,
+  "reverse_dcf": {
+    "implied_flat_growth": 0.03015089115102143,
+    "implied_flat_margin_at_base_growth": 0.25605669205028314
+  },
+  "market": {
+    "price": 241.05,
+    "beta_raw": 1.415,
+    "rf": 0.052309999465942385,
+    "high_52w": 363.7,
+    "low_52w": 190.12,
+    "target_mean": 275.06375,
+    "forward_eps": 27.67328,
+    "as_of": "2026-10-09 04:20"
+  },
+  "balance_sheet": {
+    "balance_sheet_date": "2026-08-28",
+    "cash": 5639.0,
+    "debt": 6363.0,
+    "shares": 389.2,
+    "shares_date": "2026-09-18"
+  }
+}
